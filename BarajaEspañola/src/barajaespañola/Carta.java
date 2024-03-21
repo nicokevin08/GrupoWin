@@ -15,4 +15,5 @@ public class Carta {
         return numero + " de " + palo;
     }
 
+    
 }
