@@ -1,14 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package barajaespañola;
 
-/**
- *
- * @author emanu
- */
-class Carta {
+public class Carta {
+
     private int numero;
     private String palo;
 
@@ -21,4 +14,6 @@ class Carta {
     public String toString() {
         return numero + " de " + palo;
     }
+
+    
 }
