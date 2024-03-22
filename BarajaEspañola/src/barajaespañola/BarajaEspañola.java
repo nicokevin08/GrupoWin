@@ -49,7 +49,7 @@ public class BarajaEspañola {
                 default:
                     System.out.println("Opción inválida. Intente de nuevo.");
             }
-        } while (opcion != 7);
+        } while (opcion != 7);// aca se podria agregar un control mas , que si se termina la baraja tambien termina el juego
     }
     }
 
